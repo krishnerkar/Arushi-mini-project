@@ -12,7 +12,7 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <div className="bg-gray-200 flex justify-between items-center w-full rounded-md py-4 px-8">
+    <div className="bg-gray-200 border-2 border-gray-900 flex justify-between items-center w-full rounded-md py-4 px-8">
       <h3 className="text-lg font-bold">
         <Link href="/">Mini Project</Link>
       </h3>

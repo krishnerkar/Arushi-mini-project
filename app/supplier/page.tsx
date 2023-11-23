@@ -1,3 +1,7 @@
 export default function Home() {
-  return <main>Supplier Dash</main>;
+  return (
+    <main>
+      
+    </main>
+  );
 }
